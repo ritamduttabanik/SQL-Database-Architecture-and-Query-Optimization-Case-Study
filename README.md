@@ -47,5 +47,6 @@ Special thanks to my instructor, **Prateek Agrawal Sir** at **Ivy Professional S
 ## 🔗 Let's Connect!
 I build responsive analytics networks, clean databases, and smooth ETL pipelines.
 
-* **LinkedIn Presentation:** [View the full slide analysis and walk-through here!](PASTE_YOUR_LINKEDIN_POST_URL_HERE)
-* **LinkedIn Profile:** [Your Name](PASTE_YOUR_LINKEDIN_PROFILE_URL_HERE)
+* **LinkedIn Presentation:** https://www.linkedin.com/posts/ritam-dutta-banik-5576ab2b7_sql-case-study-database-architecture-query-ugcPost-7477322614374338561-zjHn/?utm_source=share&utm_medium=member_android&rcm=ACoAAEwZb1MBQ8qKeABux_2hWEF3n8fmlOtjVWw
+* 
+* **LinkedIn Profile:** https://www.linkedin.com/in/ritam-dutta-banik-5576ab2b7
